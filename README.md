@@ -1,5 +1,7 @@
 # Welcome to the Austin Transportation Department Dev Challenges
 
+## Goals & Instructions
+
 ### Goals for this exercise
 
 - Show off your skills, creativity, style, and asynchronous collaboration abilities.
@@ -13,17 +15,29 @@
 - You will be evaluated on whether you implement all the requirements listed in the user story in the challenge README.md file.
 - You will be evaluated on how neatly your code is organized and how well you document or make comments to provide more context for implementation decisions you make.
 
+### How to submit the completed assessment:
+
+- Create a Github.com (If you don’t already have an account already)
+- Download or “clone” the dev challenge project code to your own local environment.
+- DO NOT “fork” the repository. This ensures your assessment will remain private.
+- Once complete, upload your project to a new private repository under your Github account. 
+- Email a link to your project to the DTS hiring manager. The link should look something like: “github.com/your-gh-username/dockless-scooters”.
+- If you have any questions about these steps, please contact the DTS hiring manager for clarification.
+
 #### A note on time.
 
 We don't want to waste your time so please don't work more 2 or 3 hours on this at most.
 
-### Challenge
+## Scooter Data Front End Challenge
 
 - **You must work on this alone. Do not share the code challenge with others.**
 
 Your task is to create a webpage that displays information about the Dockless Scooters in Austin. This data comes from our Open Data Portal. For documentation, visit: https://data.austintexas.gov/Transportation-and-Mobility/Dockless-Vehicle-Trips/7d8e-dm7r
 
-On your webpage, show statistics on micromobility usage for a given date range (ex: SXSW Festival, March 8-17, 2019) - Total # of Trips - Total # of Miles - Total # of Unique Units Identified
+On your webpage, show statistics on micromobility usage for a given date range (ex: SXSW Festival, March 8-17, 2019) 
+-  Total # of Trips
+-  Total # of Miles 
+-  Total # of Unique Units Identified
 
 Make the website mobile responsive.
 
