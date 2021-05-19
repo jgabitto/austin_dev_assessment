@@ -1,4 +1,5 @@
-# DTIF Dev Frontend Homework
+# Austin Transportation Frontend Homework using no framework
+
 ## An example using jQuery's AJAX and Socrata SODA API
 
 ### To get started:
