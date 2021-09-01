@@ -12,7 +12,9 @@ const LandingPage = () => {
       <h2>Dockless Scooters</h2>
       <hr></hr>
       <div>
-        <Facts />
+        <Row justify="center">
+          <Facts />
+        </Row>
         <Row justify="center">
           <Col span={10}>
             <TotalTripsChart />
@@ -21,7 +23,9 @@ const LandingPage = () => {
             <DistanceChart />
           </Col>
         </Row>
-        <SampleTable />
+        <Row justify="center">
+          <SampleTable />
+        </Row>
       </div>
     </div>
   );
